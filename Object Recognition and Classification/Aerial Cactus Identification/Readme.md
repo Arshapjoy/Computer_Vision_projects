@@ -1,0 +1,1 @@
+we’ll harness the power of computer vision to identify cacti from aerial images. Our innovative model will aid conservation efforts and provide invaluable insights into the health and distribution of these unique desert ecosystems. 
