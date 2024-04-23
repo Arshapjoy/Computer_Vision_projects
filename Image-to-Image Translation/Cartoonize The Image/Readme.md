@@ -1,0 +1,1 @@
+We’ll develop a computer vision model to transform ordinary images into cartoon-like illustrations, opening up creative possibilities. Join us as we blend art and technology with AI-driven image translation.
