@@ -1,0 +1,1 @@
+We’ll develop a computer vision model to track moving objects in real-time from videos, enhancing driver assistance systems, surveillance, and sports analytics. Join us as we race into the future of real-time analysis.
